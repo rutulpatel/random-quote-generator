@@ -1,0 +1,9 @@
+body {
+    height: 100%;
+    background-color: #FFFFFF;
+}
+.my-container {
+    background-color: #fff;
+    margin-left: 80px;
+    margin-right: 80px;
+}
